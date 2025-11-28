@@ -1,5 +1,0 @@
-prenom = input("quel est votre prenom?")
-
-print("bonjour"+ prenom)
-print(f"ravi de te rencotrer ,{prenom}!")
-print(f"longueur du prenom: ,{len(prenom)}caracteres.")
